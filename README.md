@@ -1,25 +1,25 @@
 # Finanças em Dia — AOP2
 
-Blog educativo de finanças pessoais desenvolvido em HTML5 e CSS responsivo.
+O Finanças em Dia é um blog sobre educação financeira, desenvolvido como parte da atividade AOP2. O site apresenta informações básicas para ajudar na organização das finanças pessoais, utilizando HTML5 e CSS.
 
-## Páginas
-- `index.html` — Home
+## Páginas do site
+
+- `index.html` — Página inicial
 - `orcamento.html` — Orçamento pessoal
 - `reserva.html` — Reserva de emergência
 - `investimentos.html` — Primeiros investimentos
 - `contatos.html` — Contatos
 
-## Visualizar localmente
-Abra `index.html` no navegador. Todos os arquivos devem permanecer na mesma pasta; mantenha `style.css` junto aos arquivos HTML.
+## Como visualizar
 
-## Publicar no GitHub Pages
-1. Crie um repositório no GitHub (por exemplo, `aop2-financas`).
-2. Envie todos os arquivos desta pasta para a raiz do repositório, incluindo `style.css`.
-3. No repositório, abra **Settings → Pages**.
-4. Em **Build and deployment**, selecione **Deploy from a branch**.
-5. Escolha a branch `main` e a pasta `/(root)`; clique em **Save**.
-6. Aguarde a publicação e copie a URL exibida na seção Pages. Verifique se `index.html` abre publicamente.
-7. Para o PDF, use a URL real do repositório e a URL publicada. Não use exemplos ou links ainda não publicados.
+Baixe os arquivos do projeto e abra o arquivo `index.html` no navegador. Mantenha todos os arquivos na mesma pasta, incluindo o arquivo `style.css`.
 
-## Observação
-O formulário de contato é demonstrativo: não envia nem armazena mensagens. O conteúdo financeiro é educativo e não constitui recomendação de investimento.
+## Publicação
+
+O site pode ser publicado pelo GitHub Pages. Para isso, envie os arquivos para a raiz do repositório e configure a publicação em **Settings → Pages**, selecionando a branch `main` e a pasta `/(root)`.
+
+Após a publicação, acesse o endereço fornecido pelo GitHub Pages para conferir se o site está funcionando.
+
+## Observações
+
+O formulário de contato é apenas demonstrativo e não envia nem armazena mensagens. O conteúdo sobre finanças e investimentos tem finalidade educativa e não constitui recomendação de investimento.
